@@ -10,3 +10,6 @@ merupakan restaurant yang menyediakan pizza dan berbagai makanan dan minuman lai
 - Laila Asrin (2108107010068)
 - Kelsy Amirah (2108107010054)
 - Ardiansyah (2108107010023)
+
+# Deskripsi Tugas
+Pada tugas ini memodelkan masalah yang ada di sekitar atau ide ke dalam kode konsep Object Oriented Programming. Tugas ini menerapkan konsep utama OOP seperti Encapsulation, Abstract Class, Interface, Composition, dan Polymorphism dan memiliki *User Interface*. Pada tugas ini kami memilih aplikasi pemesanan untuk restaurant.
