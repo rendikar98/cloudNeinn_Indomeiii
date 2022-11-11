@@ -6,3 +6,7 @@ merupakan restaurant yang menyediakan pizza dan berbagai makanan dan minuman lai
 
 # Anggota
 - Rendika Rahmaturrizki (2108107010066)
+- Najla Raihana (2108107010067)
+- Laila Asrin (2108107010068)
+- Kelsy Amirah (2108107010054)
+- Ardiansyah (2108107010023)
