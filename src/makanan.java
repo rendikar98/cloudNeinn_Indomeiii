@@ -2,26 +2,9 @@ public class makanan extends Produk {
     public makanan (){
 
     }
-    public makanan(String data){
-        try{
-            String Data[] = new String[10];
-            int i = 0;
-            StringTokenizer sToken = new StringTokenizer(data, ",");
-
-            while(sToken.hasMoreTokens()){
-                Data[i++] = sToken.nextToken();
-            }
-
-            Data[0] = super.getKode() ;
-            Data[1] = super.getNama();
-            Data[2] = super.getHarga();
-        } catch (Exception e){
-
-        }
-    }
     @java.lang.Override
     public double getHarga() {
-        return Double.parseDouble(super.getHarga());
+        return super.getHarga();
     }
 
     @java.lang.Override
