@@ -40,4 +40,16 @@ public class Produk{
         return Double.parseDouble(this.harga);
     }
 
+    public void setHarga(String harga) {
+        this.harga = harga;
+    }
+
+    public void setKode(String kode) {
+        this.kode = kode;
+    }
+
+    public void setNama(String nama) {
+        this.nama = nama;
+    }
+
 }
