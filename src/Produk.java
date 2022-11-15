@@ -10,7 +10,7 @@ public class Produk{
 
     }
 
-    public Produk(String data){
+    public void dataProduk(String data){
         try{
             String Data[] = new String[10];
             int i = 0;
