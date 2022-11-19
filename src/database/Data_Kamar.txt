@@ -1,1 +1,6 @@
 
+KR011,Dahlia,1000000,Deluxe,dir,kamar ini memiliki dua tempat tidur king bed beserta dapur dan AC
+KR012,Dandelion,1000000,Deluxe,dir,kamar ini memiliki dua tempat tidur king bed beserta dapur dan AC
+KR013,Daisy,1000000,Deluxe,dir,kamar ini memiliki dua tempat tidur king bed beserta dapur dan AC
+KR014,Daylily,1000000,Deluxe,dir,kamar ini memiliki dua tempat tidur king bed beserta dapur dan AC
+KR015,Daffodil,1000000,Deluxe,dir,kamar ini memiliki dua tempat tidur king bed beserta dapur dan AC
