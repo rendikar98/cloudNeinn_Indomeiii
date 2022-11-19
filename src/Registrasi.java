@@ -47,3 +47,4 @@ public class Registrasi extends User{
         database database = new database();
         database.menulisDataPenyewa(getNama(), getEmail(), getPassword());
     }
+}
