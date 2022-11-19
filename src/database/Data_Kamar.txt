@@ -1,15 +1,15 @@
-KS001,Melati,200000,Standard,dir,kamar ini memiliki dua tempat tidur single bed
-KS002,Mawar,200000,Standard,dir,kamar ini memiliki dua tempat tidur single bed
-KS003,Matahari,200000,Standard,dir,kamar ini memiliki dua tempat tidur single bed
-KS004,Matoa,200000,Standard,dir,kamar ini memiliki dua tempat tidur single bed
-KS005,Mahoni,200000,Standard,dir,kamar ini memiliki dua tempat tidur single bed
-KR006,Anggrek,500000,Superior,dir,kamar ini memiliki dua tempat tidur queen bed dan AC
-KR007,Asoka,500000,Superior,dir,kamar ini memiliki dua tempat tidur queen bed dan AC
-KR008,Alamanda,500000,Superior,dir,kamar ini memiliki dua tempat tidur queen bed dan AC
-KR009,Adenium,500000,Superior,dir,kamar ini memiliki dua tempat tidur queen bed dan AC
-KR010,Amarantum,500000,Superior,dir,kamar ini memiliki dua tempat tidur queen bed dan AC
-KR011,Dahlia,1000000,Deluxe,dir,kamar ini memiliki dua tempat tidur king bed beserta dapur dan AC
-KR012,Dandelion,1000000,Deluxe,dir,kamar ini memiliki dua tempat tidur king bed beserta dapur dan AC
-KR013,Daisy,1000000,Deluxe,dir,kamar ini memiliki dua tempat tidur king bed beserta dapur dan AC
-KR014,Daylily,1000000,Deluxe,dir,kamar ini memiliki dua tempat tidur king bed beserta dapur dan AC
-KR015,Daffodil,1000000,Deluxe,dir,kamar ini memiliki dua tempat tidur king bed beserta dapur dan AC
+KS001,Melati,200000,Standard,Kamar_Standard.jpg,kamar ini memiliki dua tempat tidur single bed
+KS002,Mawar,200000,Standard,Kamar_Standard.jpg,kamar ini memiliki dua tempat tidur single bed
+KS003,Matahari,200000,Standard,Kamar_Standard.jpg,kamar ini memiliki dua tempat tidur single bed
+KS004,Matoa,200000,Standard,Kamar_Standard.jpg,kamar ini memiliki dua tempat tidur single bed
+KS005,Mahoni,200000,Standard,Kamar_Standard.jpg,kamar ini memiliki dua tempat tidur single bed
+KR006,Anggrek,500000,Superior,Kamar_Superior.jpg,kamar ini memiliki dua tempat tidur queen bed dan AC
+KR007,Asoka,500000,Superior,Kamar_Superior.jpg,kamar ini memiliki dua tempat tidur queen bed dan AC
+KR008,Alamanda,500000,Superior,Kamar_Superior.jpg,kamar ini memiliki dua tempat tidur queen bed dan AC
+KR009,Adenium,500000,Superior,Kamar_Superior.jpg,kamar ini memiliki dua tempat tidur queen bed dan AC
+KR010,Amarantum,500000,Superior,Kamar_Superior.jpg,kamar ini memiliki dua tempat tidur queen bed dan AC
+KR011,Dahlia,1000000,Deluxe,Kamar_Deluxe.jpg,kamar ini memiliki dua tempat tidur king bed beserta dapur dan AC
+KR012,Dandelion,1000000,Deluxe,Kamar_Deluxe.jpg,kamar ini memiliki dua tempat tidur king bed beserta dapur dan AC
+KR013,Daisy,1000000,Deluxe,Kamar_Deluxe.jpg,kamar ini memiliki dua tempat tidur king bed beserta dapur dan AC
+KR014,Daylily,1000000,Deluxe,Kamar_Deluxe.jpg,kamar ini memiliki dua tempat tidur king bed beserta dapur dan AC
+KR015,Daffodil,1000000,Deluxe,Kamar_Deluxe.jpg,kamar ini memiliki dua tempat tidur king bed beserta dapur dan AC
