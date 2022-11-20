@@ -17,7 +17,7 @@ public class KamarDeluxe extends Kamar {
         return super.getNama();
     }
 
-    public int getUmur() {
+    public int getHarga() {
         return super.getharga();
     }
 }
