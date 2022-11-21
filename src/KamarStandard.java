@@ -1,10 +1,9 @@
-public class KamarSuperior extends Kamar {
-
+public class KamarStandard extends Kamar {
     private double harga;
     private String deskripsi;
     private int  kamarTersedia;
 
-    public KamarSuperior(){
+    public KamarStandard(){
        
     }
 
@@ -32,4 +31,5 @@ public class KamarSuperior extends Kamar {
     public void setKamarTersedia(int sisaKamar){
         this.kamarTersedia = sisaKamar;
     }
+
 }

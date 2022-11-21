@@ -1,5 +1,4 @@
 public class KamarDeluxe extends Kamar {
-    
     private double harga;
     private String deskripsi;
     private int  kamarTersedia;
