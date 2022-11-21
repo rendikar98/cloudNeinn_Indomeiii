@@ -1,26 +1,21 @@
-public class Kamar {
+public abstract class Kamar {
+    private double harga;
     
-    private String nama;
-    private int harga;
+    public Kamar() {
+        
+    }
 
-    public Kamar(String nama, int harga) {
-        this.nama = nama;
+    public Kamar(double harga) {
         this.harga = harga;
     }
 
-    public void setNama( String nama) {
-        this.nama = nama;
-    }
+    public abstract void setHarga(double harga);
 
-    public void setHarga( int harga) {
-        this.harga = harga;
-    }
+    public abstract double getharga();
+    
+    public abstract String getDeskripsi();
 
-    public int getharga(){
-        return this.harga;
-    }
+    public abstract int getKamarTersedia();
 
-    public String getNama() {
-        return this.nama;
-    }
+    public abstract void setKamarTersedia(int sisaKamar);
 }
