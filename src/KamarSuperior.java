@@ -32,5 +32,4 @@ public class KamarSuperior extends Kamar {
     public void setKamarTersedia(int sisaKamar){
         this.kamarTersedia = sisaKamar;
     }
-
 }

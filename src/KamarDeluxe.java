@@ -31,5 +31,4 @@ public class KamarDeluxe extends Kamar {
     public void setKamarTersedia(int sisaKamar){
         this.kamarTersedia = sisaKamar;
     }
-
 }
