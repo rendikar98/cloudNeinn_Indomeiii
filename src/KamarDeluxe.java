@@ -1,23 +1,35 @@
 public class KamarDeluxe extends Kamar {
     
-    public KamarDeluxe(String nama, int harga) {
-        super(nama, harga);
+    private double harga;
+    private String deskripsi;
+    private int  kamarTersedia;
+
+    public KamarDeluxe(){
+       
     }
 
     @Override
-    public void setNama(String nama) {
-        super.setNama(nama);
+    public double getharga() {
+        return harga;
     }
 
-    public void setharga( int harga) {
-        super.setHarga(harga);
+    @Override
+    public void setHarga(double hargaBaru) {
+        this.harga = hargaBaru;
     }
 
-    public String getNama() {
-        return super.getNama();
+    @Override
+    public String getDeskripsi() {
+       return deskripsi;
     }
 
-    public int getHarga() {
-        return super.getharga();
+    @Override 
+    public int getKamarTersedia(){
+        return kamarTersedia;
+    }
+
+    @Override 
+    public void setKamarTersedia(int sisaKamar){
+        this.kamarTersedia = sisaKamar;
     }
 }
