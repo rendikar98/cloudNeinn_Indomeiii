@@ -1,7 +1,5 @@
 public class KamarStandard extends Kamar {
-    private double harga;
-    private String deskripsi;
-    private int  kamarTersedia;
+    private double harga = 200000;
 
     public KamarStandard(){
        
@@ -15,21 +13,6 @@ public class KamarStandard extends Kamar {
     @Override
     public void setHarga(double hargaBaru) {
         this.harga = hargaBaru;
-    }
-
-    @Override
-    public String getDeskripsi() {
-       return deskripsi;
-    }
-
-    @Override 
-    public int getKamarTersedia(){
-        return kamarTersedia;
-    }
-
-    @Override 
-    public void setKamarTersedia(int sisaKamar){
-        this.kamarTersedia = sisaKamar;
     }
 
 }
