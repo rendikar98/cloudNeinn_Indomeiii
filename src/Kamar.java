@@ -14,8 +14,4 @@ public abstract class Kamar {
     public abstract double getharga();
     
     public abstract String getDeskripsi();
-
-    public abstract int getKamarTersedia();
-
-    public abstract void setKamarTersedia(int sisaKamar);
 }
