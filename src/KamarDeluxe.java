@@ -1,5 +1,5 @@
 public class KamarDeluxe extends Kamar {
-    private double harga;
+    private double harga = 150000;
 
     public KamarDeluxe(){
        
