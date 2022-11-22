@@ -5,13 +5,7 @@ public abstract class Kamar {
         
     }
 
-    public Kamar(double harga) {
-        this.harga = harga;
-    }
-
     public abstract void setHarga(double harga);
 
     public abstract double getharga();
-    
-    public abstract String getDeskripsi();
 }
