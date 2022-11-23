@@ -33,6 +33,4 @@ public class Customer{
     public void setLamaMenginap(int lamaMenginap) {
         this.lamaMenginap = lamaMenginap;
     }
-
-    public void pesanKamar(){}
 }
