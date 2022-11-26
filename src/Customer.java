@@ -9,9 +9,9 @@ public class Customer{
 
     private String nama;
     private String id;
-    private int lamaMenginap;
+    private double lamaMenginap;
 
-    public Customer(String nama, String id,int lamaMenginap){
+    public Customer(String nama, String id,double lamaMenginap){
         this.nama = nama;
         this.id = id;
         this.lamaMenginap = lamaMenginap;
@@ -48,14 +48,14 @@ public class Customer{
      * method untuk mengembalikan berapa lama hari menginap dari customer
      * @return lamamenginap
      */
-    public int getLamaMenginap() {
+    public double getLamaMenginap() {
         return this.lamaMenginap;
     }
     /**
      * method untuk mengubah hari nginap dari customer
      * @param lamaMenginap
      */
-    public void setLamaMenginap(int lamaMenginap) {
+    public void setLamaMenginap(double lamaMenginap) {
         this.lamaMenginap = lamaMenginap;
     }
 
