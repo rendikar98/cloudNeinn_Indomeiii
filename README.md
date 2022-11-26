@@ -2,7 +2,7 @@
 Project final lab PBO A
 
 # Travekola
-Travekola merupakan aplikasi untuk memesan kamar hotel imajinasikansajatidakusahdipikirkan:). 
+Travekola merupakan aplikasi untuk memesan kamar hotel Travekola. 
 Pada aplikasi traveloka menggunakan design UI yang simple namun jelas untuk customer.
 
 # Anggota
