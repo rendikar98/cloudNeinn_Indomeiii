@@ -1,24 +1,23 @@
+package classes;
+
+@Data  (
+    author = "cloudNein",
+    date = "26/11/2022",
+    description = "Kelas kamar merupakan kelas abstract dan super class yang menyimpan variabel dan method dari kamar"
+)
 public abstract class Kamar {
-    
-    private String nama;
-    private double harga;
-    
     public Kamar() {
         
     }
-
-    public Kamar(String nama, double harga) {
-        this.nama = nama;
-        this.harga = harga;
-    }
-
-    public abstract void setNama( String nama);
-
-    public abstract void setHarga( double harga);
-
+    /**
+     * method abstract untuk mengubah harga dari jenis kamar
+     * @param harga
+     */
+    public abstract void setHarga(double harga);
+    /**
+     * method abstract untuk mengembalikan nilai dari harga kamar
+     * @return
+     */
     public abstract double getharga();
 
-    public abstract String getNama();
-    
-    public abstract String getDeskripsi();
 }
