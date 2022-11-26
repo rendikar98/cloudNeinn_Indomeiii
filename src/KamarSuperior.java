@@ -30,6 +30,5 @@ public class KamarSuperior extends Kamar {
      public void setHarga(double hargaBaru) {
          this.harga = hargaBaru;
      }
- 
 
 }
