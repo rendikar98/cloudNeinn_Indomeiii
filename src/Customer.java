@@ -1,9 +1,10 @@
+package classes;
+
 @Data  (
     author = "cloudNein",
     date = "26/11/2022",
     description = "Kelas customer merupakan kelas yang menyimpan variabel dan method dari customer"
 )
-
 public class Customer{
 
     private String nama;
@@ -15,7 +16,6 @@ public class Customer{
         this.id = id;
         this.lamaMenginap = lamaMenginap;
     }
-
     /**
      * method untuk mengembalikan nama dari customer
      * @return nama yang merupakan variabel yang menyimpan nama customer
@@ -58,4 +58,5 @@ public class Customer{
     public void setLamaMenginap(int lamaMenginap) {
         this.lamaMenginap = lamaMenginap;
     }
+
 }
