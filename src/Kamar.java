@@ -1,3 +1,5 @@
+package src;
+
 @Data  (
     author = "cloudNein",
     date = "26/11/2022",
