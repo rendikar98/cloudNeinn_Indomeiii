@@ -1,65 +1,58 @@
- /**
-  * Class customer untuk menyimpan data customer yang menginap di hotel 
-  */
-public class Customer {
-    //Inisialisasi variabel 
+ package src;
+
+@Data  (
+    author = "cloudNein",
+    date = "26/11/2022",
+    description = "Kelas customer merupakan kelas yang menyimpan variabel dan method dari customer"
+)
+public class Customer{
+
     private String nama;
     private String id;
     private int lamaMenginap;
 
-    /**
-     * Method constructor dengan parameter
-     * @param nama
-     * @param id
-     * @param lamaMenginap
-     */
     public Customer(String nama, String id,int lamaMenginap){
         this.nama = nama;
         this.id = id;
         this.lamaMenginap = lamaMenginap;
     }
-
-    /*
-     * Method accessor untuk return nama customer
+    /**
+     * method untuk mengembalikan nama dari customer
+     * @return nama yang merupakan variabel yang menyimpan nama customer
      */
     public String getNama() {
         return this.nama;
     }
-
     /**
-     * Method mutator untuk set nama customer dengan parameter nama 
-     * @param nama
+     * method untuk mengubah nama dari customer
+     * @param nama customer
      */
     public void setNama(String nama) {
         this.nama = nama;
     }
-
     /**
-     * Method accessor yang akan mengembalikan id 
-     * @return
+     * method untuk mengembalikan id dari customer
+     * @return id
      */
     public String getId() {
         return this.id;
     }
-
     /**
-     * Method mutator untuk set id dengan parameter id
+     * method untuk mengubha id customer
      * @param id
      */
     public void setId(String id) {
         this.id = id;
     }
-
     /**
-     * Method accessor untuk return lamaMenginap customer 
-     * @return
+     * method untuk mengembalikan berapa lama hari menginap dari customer
+     * @return lamamenginap
      */
     public int getLamaMenginap() {
         return this.lamaMenginap;
     }
-    
     /**
-     * Method mutator akan set lamaMenginap customer dengan parameter lamaMenginap 
+     * method untuk mengubah hari nginap dari customer
      * @param lamaMenginap
      */
     public void setLamaMenginap(int lamaMenginap) {
