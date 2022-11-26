@@ -27,7 +27,7 @@ public class Customer{
      * method untuk mengubah nama dari customer
      * @param nama customer
      */
-    public void setNama(String nama) {
+    public void setNama(String namaBaru) {
         this.nama = nama;
     }
     /**
