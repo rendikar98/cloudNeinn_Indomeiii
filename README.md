@@ -1,5 +1,7 @@
 # cloudNeinn_Travekola
 Project final lab PBO A
+![Travekola](https://github.com/rendikar98/cloudNeinn_Travekola/blob/main/resources/background.png)
+
 
 # Travekola
 Travekola merupakan aplikasi untuk memesan kamar hotel Travekola. 
