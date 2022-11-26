@@ -13,7 +13,7 @@ public abstract class Kamar {
      * method abstract untuk mengubah harga dari jenis kamar
      * @param harga
      */
-    public abstract void setHarga(double harga);
+    public abstract void setHarga(double hargaBaru);
     /**
      * method abstract untuk mengembalikan nilai dari harga kamar
      * @return
