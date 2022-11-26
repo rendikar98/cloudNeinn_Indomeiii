@@ -30,5 +30,4 @@ public class KamarStandard extends Kamar {
         this.harga = hargaBaru;
      }
  
-
 }
