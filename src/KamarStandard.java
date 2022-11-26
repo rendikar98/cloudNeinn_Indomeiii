@@ -1,4 +1,4 @@
-package classes;
+package src;
 
 @Data  (
     author = "cloudNein",
