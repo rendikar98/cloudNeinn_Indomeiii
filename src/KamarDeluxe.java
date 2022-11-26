@@ -7,6 +7,7 @@ package src;
 )
 public class KamarDeluxe extends Kamar {
     private double harga;
+    
     /**
      * method constructor dari kelas kamardeluxe yang berisi variabel harga dengan nilai 800000
      */
