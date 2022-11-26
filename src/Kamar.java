@@ -1,4 +1,5 @@
 package src;
+
 @Data  (
     author = "cloudNein",
     date = "26/11/2022",
@@ -18,6 +19,5 @@ public abstract class Kamar {
      * @return
      */
     public abstract double getharga();
-
 
 }
