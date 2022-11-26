@@ -3,7 +3,7 @@ Project final lab PBO A
 
 # Travekola
 Travekola merupakan aplikasi untuk memesan kamar hotel Travekola. 
-Pada aplikasi traveloka menggunakan design UI yang simple namun jelas untuk customer.
+Pada aplikasi travekola menggunakan design UI yang simple namun jelas untuk customer.
 
 # Anggota
 - Rendika Rahmaturrizki (2108107010066)
