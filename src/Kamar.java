@@ -6,6 +6,8 @@ package src;
     description = "Kelas kamar merupakan kelas abstract dan super class yang menyimpan variabel dan method dari kamar"
 )
 public abstract class Kamar {
+    private double harga;
+    
     public Kamar() {
         
     }
