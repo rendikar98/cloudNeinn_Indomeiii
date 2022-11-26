@@ -19,5 +19,4 @@ public abstract class Kamar {
      * @return
      */
     public abstract double getharga();
-    
 }
