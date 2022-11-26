@@ -21,5 +21,5 @@ git clone https://github.com/rendikar98/cloudNeinn_Travekola.git
 
 2. pindah ke direktori cloudNeinn_Traveloka
 
-3. buka executeable file jar atau bisa juga menggunakan command
+3. buka executeable file jar atau bisa juga menggunakan terminal command <br />
 java -jar Hotel_Traveloka.jar
