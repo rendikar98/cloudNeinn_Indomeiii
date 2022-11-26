@@ -5,7 +5,7 @@ package gui;
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-import classes.*;
+import src.*;
 import javax.swing.*;
 import java.awt.event.*;
 
