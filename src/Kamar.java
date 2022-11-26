@@ -1,38 +1,23 @@
+package src;
 
-/**
- * Class kamar merupakan class abstract yang akan di override oleh subclass-nya
- */
+@Data  (
+    author = "cloudNein",
+    date = "26/11/2022",
+    description = "Kelas kamar merupakan kelas abstract dan super class yang menyimpan variabel dan method dari kamar"
+)
 public abstract class Kamar {
-    //Inisilaisasi variabel 
-    private double harga;
-    
-    /**
-     * Method constructor yang dikosongkan 
-     */
     public Kamar() {
         
     }
-
     /**
-     * Method constructor dengan parameter harga yang akan mengembalikan harga kamar
+     * method abstract untuk mengubah harga dari jenis kamar
      * @param harga
      */
-    public Kamar(double harga) {
-        this.harga = harga;
-    }
-
-    /**
-     * Method abstract yang akan di override pada subclass dari superclass kamar
-     */
-
     public abstract void setHarga(double harga);
-
+    /**
+     * method abstract untuk mengembalikan nilai dari harga kamar
+     * @return
+     */
     public abstract double getharga();
-    
-    public abstract String getDeskripsi();
 
-    public abstract int getKamarTersedia();
-
-    public abstract void setKamarTersedia(int sisaKamar);
 }
-
